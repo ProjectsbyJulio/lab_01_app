@@ -1,16 +1,22 @@
 # lab_01_app
 
-A new Flutter project.
+Primer laboratorio de la asignatura de Desarrollo de Aplicaciones Móviles básicas
 
-## Getting Started
+## Captura de los resultados
 
-This project is a starting point for a Flutter application.
+###### Aplicación con la imagen del autor
 
-A few resources to get you started if this is your first Flutter project:
+![Captura 1](https://res.cloudinary.com/dqaav1s3t/image/upload/v1612913533/flutter/Captura_de_pantalla_14_uzyoel.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+###### Icono de la aplicación
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura 2](https://res.cloudinary.com/dqaav1s3t/image/upload/v1612914175/flutter/Captura_de_pantalla_18_lkmhj6.png)
+
+
+###### Puntos cumplidos en esta aplicación:
+
+- [x] Instala y configura el entorno de desarrollo para trabajar con flutter
+- [x] Utiliza widgets para crear barras de título
+- [x] Utiliza widgets para insertar imágenes
+- [x] Ejecuta la aplicación en un dispositivo virtual o físico
+- [x] Configura la aplicación con iconos personalizados
